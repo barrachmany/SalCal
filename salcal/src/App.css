@@ -1,0 +1,15 @@
+.app {
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-end;
+
+}
+
+.bottom-navbar {
+  display: flex;
+  width: 95vw;
+  justify-content: space-around;
+}
